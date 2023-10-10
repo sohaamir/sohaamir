@@ -7,11 +7,13 @@
   
 - 🧠 I’m currently working to understand the **neurocomputational mechanisms of self-referencing in social anxiety**
 
-- 👯 I’m looking to collaborate on **projects in cognitive neuroscience, open science and reproducibility, and inclusion and diversity in neuroscience**
+- 👯 Open to collaborations on topics including **decision making, computational psychiatry and behavioural economics**
+  
+- ❤️ Passionate towards improving **open science/reproducibility and inclusivity/diversity in (neuro)science**
 
-- 👨‍💻 Examples of my work can be found on my personal website: [sohaamir.github.io](https://sohaamir.github.io/)
+- 👨‍💻 More information about me can be found on my personal website: [sohaamir.github.io](https://sohaamir.github.io/)
 
-- 📫 Feel free to contact me by email at: **axs2210@student.bham.ac.uk**
+- 🌐 Feel free to contact me by email at: **axs2210@student.bham.ac.uk**
 
 <h3 align="left">Follow me:</h3>
 <p align="left">
