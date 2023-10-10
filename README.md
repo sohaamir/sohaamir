@@ -15,7 +15,7 @@
 
 - 🌐 Feel free to contact me by email at: **axs2210@student.bham.ac.uk**
 
-<h3 align="left">Follow me:</h3>
+<h3 align="left">Follow me!</h3>
 <p align="left">
 <a href="https://twitter.com/anothersohail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anothersohail" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aamir-sohail-3a42b9293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aamir-sohail-3a42b9293" height="30" width="40" /></a>
