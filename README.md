@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohaamir&label=Profile%20views&color=0e75b6&style=flat" alt="sohaamir" /> </p>
 
-- 🏛️ Hi, I'm Aamir, an **MRC AIM DTP PhD Student in Psychology at the University of Birmingham**
+
+- 🏛️ Hi, I'm <img src ="https://img.shields.io/badge/Aamir-Sohail-green?labelColor=white&color=green" alt = "Aamir" />, an **MRC AIM DTP PhD Student in Psychology at the University of Birmingham**
   
 - 🧠 I’m currently working to understand the **neurocomputational mechanisms of self-referencing in social anxiety**
 
@@ -14,6 +15,8 @@
 - 👨‍💻 More information about me can be found on my personal website: [sohaamir.github.io](https://sohaamir.github.io/)
 
 - 🌐 Feel free to contact me by email at: **axs2210@student.bham.ac.uk**
+
+- Follow me on Twitter/X [![Twitter Follow](https://img.shields.io/twitter/follow/anothersohail?label=%40anothersohail)](https://twitter.com/anothersohail) or just click the icon below!
 
 <h3 align="left">Follow me!</h3>
 <p align="left">
