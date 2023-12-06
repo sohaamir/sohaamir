@@ -16,11 +16,10 @@
 
 - 🌐 Feel free to contact me by email at: **axs2210@student.bham.ac.uk**
 
-- Follow me on Twitter/X [![Twitter Follow](https://img.shields.io/twitter/follow/anothersohail?label=%40anothersohail)](https://twitter.com/anothersohail) or just click the icon below!
+- Follow me on Twitter/X [![Twitter Follow](https://img.shields.io/twitter/follow/anothersohail?label=%40anothersohail)](https://twitter.com/anothersohail)
 
-<h3 align="left">Follow me!</h3>
+<h3 align="left">My academic profiles:</h3>
 <p align="left">
-<a href="https://twitter.com/anothersohail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anothersohail" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aamir-sohail-3a42b9293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aamir-sohail-3a42b9293" height="30" width="40" /></a>
 <a href="https://orcid.org/0009-0000-6584-4579" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="aamir-sohail-orcid" height="30" width="40" /></a>
 <a href="https://osf.io/ya4td/" target="blank"><img align="center" src="https://img.shields.io/badge/OSF-ya4td-blue.svg?link=https://osf.io/ya4td/" alt="aamir-sohail-osf" height="20" width="80" /></a>
