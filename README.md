@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohaamir&label=Profile%20views&color=0e75b6&style=flat" alt="sohaamir" /> </p>
 
-### 📖 About me:
+## 📖 About me:
 
 - 🏛️ Hi, I'm <img src ="https://img.shields.io/badge/Aamir-Sohail-green?labelColor=white&color=green" alt = "Aamir" />, an **MRC AIM DTP PhD Student in Psychology at the University of Birmingham**
   
@@ -13,12 +13,12 @@
   
 - ❤️ Passionate towards improving **open science/reproducibility and inclusivity/diversity in (neuro)science**
 
-### 🌐 My personal website and contact email address: 
+## 🌐 My personal website and contact email address: 
 
 <a href="https://sohaamir.github.io" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 <a href="mailto:axs2210@student.bham.ac.uk" target="blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 
-### 🎓 My social/academic profiles:
+## 🎓 My social/academic profiles:
 
 <a href="https://www.linkedin.com/in/aamir-sohail-3a42b9293/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://twitter.com/anothersohail" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
@@ -27,7 +27,7 @@
 <a href="https://www.researchgate.net/profile/Aamir-Sohail-30" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Research_Gate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate Badge"></a>
 <a href="https://osf.io/ya4td/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/OSF-2CB9F1?logo=osf&logoColor=fff&style=for-the-badge" alt="OSF Badge"></a>
 
-### 💻 I have experience with using:
+## 💻 I have experience with using:
 
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
