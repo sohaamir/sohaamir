@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohaamir&label=Profile%20views&color=0e75b6&style=flat" alt="sohaamir" /> </p>
 
+### 📖 About me:
 
 - 🏛️ Hi, I'm <img src ="https://img.shields.io/badge/Aamir-Sohail-green?labelColor=white&color=green" alt = "Aamir" />, an **MRC AIM DTP PhD Student in Psychology at the University of Birmingham**
   
@@ -12,23 +13,54 @@
   
 - ❤️ Passionate towards improving **open science/reproducibility and inclusivity/diversity in (neuro)science**
 
-- 👨‍💻 More information about me can be found on my personal website: [sohaamir.github.io](https://sohaamir.github.io/)
+### 🌐 My personal website and contact email address: 
 
-- 🌐 Feel free to contact me by email at: **axs2210@student.bham.ac.uk**
+<a href="https://sohaamir.github.io" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+<a href="mailto:axs2210@student.bham.ac.uk" target="blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 
-- Follow me on Twitter/X [![Twitter Follow](https://img.shields.io/twitter/follow/anothersohail?label=%40anothersohail)](https://twitter.com/anothersohail) and bsky [![Bluesky Badge](https://img.shields.io/badge/aamirsohail-0285FF?logo=bluesky&logoColor=fff&style=plastic)](https://bsky.app/profile/aamirsohail.bsky.social)
-  
-<h3 align="left">My academic profiles:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aamir-sohail-3a42b9293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aamir-sohail-3a42b9293" height="30" width="40" /></a>
-<a href="https://orcid.org/0009-0000-6584-4579" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="aamir-sohail-orcid" height="30" width="40" /></a>
-<a href="https://www.researchgate.net/profile/Aamir-Sohail-30" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="aamir-sohail-researchgate" height="32" width="42" /></a>
-<a href="https://osf.io/ya4td/" target="blank"><img align="center" src="https://img.shields.io/badge/OSF-ya4td-blue.svg?link=https://osf.io/ya4td/" alt="aamir-sohail-osf" height="20" width="80" /></a>
+### 🎓 My social/academic profiles:
+
+<a href="https://www.linkedin.com/in/aamir-sohail-3a42b9293/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://twitter.com/anothersohail" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
+<a href="https://bsky.app/profile/aamirsohail.bsky.social" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" alt="Bluesky Badge"></a>
+<a href="https://orcid.org/0009-0000-6584-4579" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge"></a>
+<a href="https://www.researchgate.net/profile/Aamir-Sohail-30" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Research_Gate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate Badge"></a>
+<a href="https://osf.io/ya4td/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/OSF-2CB9F1?logo=osf&logoColor=fff&style=for-the-badge" alt="OSF Badge"></a>
+
+### 💻 I have experience with using:
+
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Bard-886FBF?style=for-the-badge&logo=googlebard&logoColor=fff">
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+<img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+<img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
+<img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white">
 <br>
-  
-<h3 align="left">I have experience with:</h3>
-<a title="Free Software Foundation, FAL, via Wikimedia Commons" href="https://www.gnu.org/software/bash/"><img width="40" height="40" alt="Bash Logo Colored" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png"></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r-logo" width="40" height="40"/> </a> </p>
 <br>
-Credits to: my namesake <a href="https://github.com/pourmand1376">Amir Pourmand</a> for the layout and general design, <a href="https://shields.io/">shields.io</a> / <a href="https://badges.pages.dev/">Simple Badges</a> for badge code and <a href="https://emojipedia.org/">Emojipedia</a> for the emojis.<br>
+In my spare time I like to browse <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> listen to <img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"> play <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"> and eat <img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white">
+<br>
+<br>
+Credits to: my namesake <a href="https://github.com/pourmand1376">Amir Pourmand</a> for the layout and general design, <a href="https://shields.io/">shields.io</a>, <a href="https://badges.pages.dev/">Simple Badges</a> and [Badges 4 README](https://github.com/alexandresanlim/Badges4-README.md-Profile) for badge code as well as <a href="https://emojipedia.org/">Emojipedia</a> for the emojis.<br>
 <br>
 Thank you all! 🙌🏽
