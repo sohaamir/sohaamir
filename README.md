@@ -33,7 +33,7 @@
 
 <br>
 
-## 💻 I have experience with using:
+## 💻 I have experience with:
 
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
@@ -54,7 +54,6 @@
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
 <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white">
 
-<br>
 <br>
 Credits to: my namesake <a href="https://github.com/pourmand1376">Amir Pourmand</a> for the layout and general design, <a href="https://shields.io/">shields.io</a>, <a href="https://badges.pages.dev/">Simple Badges</a> and <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">Badges 4 README</a> for badge code as well as <a href="https://emojipedia.org/">Emojipedia</a> for the emojis.<br>
 <br>
