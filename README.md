@@ -13,10 +13,14 @@
   
 - ❤️ Passionate towards improving **open science/reproducibility and inclusivity/diversity in (neuro)science**
 
+<br>
+
 ## 🌐 My personal website and contact email address: 
 
 <a href="https://sohaamir.github.io" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 <a href="mailto:axs2210@student.bham.ac.uk" target="blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+
+<br>
 
 ## 🎓 My social/academic profiles:
 
@@ -26,6 +30,8 @@
 <a href="https://orcid.org/0009-0000-6584-4579" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge"></a>
 <a href="https://www.researchgate.net/profile/Aamir-Sohail-30" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Research_Gate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate Badge"></a>
 <a href="https://osf.io/ya4td/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/OSF-2CB9F1?logo=osf&logoColor=fff&style=for-the-badge" alt="OSF Badge"></a>
+
+<br>
 
 ## 💻 I have experience with using:
 
@@ -47,6 +53,7 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
 <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white">
+
 <br>
 <br>
 Credits to: my namesake <a href="https://github.com/pourmand1376">Amir Pourmand</a> for the layout and general design, <a href="https://shields.io/">shields.io</a>, <a href="https://badges.pages.dev/">Simple Badges</a> and [Badges 4 README](https://github.com/alexandresanlim/Badges4-README.md-Profile) for badge code as well as <a href="https://emojipedia.org/">Emojipedia</a> for the emojis.<br>
