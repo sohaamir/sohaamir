@@ -56,6 +56,6 @@
 
 <br>
 <br>
-Credits to: my namesake <a href="https://github.com/pourmand1376">Amir Pourmand</a> for the layout and general design, <a href="https://shields.io/">shields.io</a>, <a href="https://badges.pages.dev/">Simple Badges</a> and [Badges 4 README](https://github.com/alexandresanlim/Badges4-README.md-Profile) for badge code as well as <a href="https://emojipedia.org/">Emojipedia</a> for the emojis.<br>
+Credits to: my namesake <a href="https://github.com/pourmand1376">Amir Pourmand</a> for the layout and general design, <a href="https://shields.io/">shields.io</a>, <a href="https://badges.pages.dev/">Simple Badges</a> and <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">Badges 4 README</a> for badge code as well as <a href="https://emojipedia.org/">Emojipedia</a> for the emojis.<br>
 <br>
 Thank you all! 🙌🏽
