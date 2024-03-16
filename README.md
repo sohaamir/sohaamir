@@ -53,8 +53,16 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
 <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white">
+<br>
+<br>
+
+## My GitHub Profile Statistics
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohaamir&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohaamir&theme=algolia)
+[![](https://raw.githubusercontent.com/sohaamir/sohaamir/main/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sohaamir/sohaamir/main/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/sohaamir/sohaamir/main/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sohaamir/sohaamir/main/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <br>
-Credits to: my namesake <a href="https://github.com/pourmand1376">Amir Pourmand</a> for the layout and general design, <a href="https://shields.io/">shields.io</a>, <a href="https://badges.pages.dev/">Simple Badges</a> and <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">Badges 4 README</a> for badge code as well as <a href="https://emojipedia.org/">Emojipedia</a> for the emojis.<br>
+Credits to: my namesake <a href="https://github.com/pourmand1376">Amir Pourmand</a> for the layout and general design, <a href="https://shields.io/">shields.io</a>, <a href="https://badges.pages.dev/">Simple Badges</a> and <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">Badges 4 README</a> for badge code, <a href="https://emojipedia.org/">Emojipedia</a> for the emojis and <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">GitHub Profile Summary Cards</a> for profile statistics.<br>
 <br>
 Thank you all! 🙌🏽
