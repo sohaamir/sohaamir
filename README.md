@@ -63,6 +63,6 @@
 [![](https://raw.githubusercontent.com/sohaamir/sohaamir/main/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sohaamir/sohaamir/main/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <br>
-Credits to: my namesake <a href="https://github.com/pourmand1376">Amir Pourmand</a> for the layout and general design, <a href="https://shields.io/">shields.io</a>, <a href="https://badges.pages.dev/">Simple Badges</a> and <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">Badges 4 README</a> for badge code, <a href="https://emojipedia.org/">Emojipedia</a> for the emojis and <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">GitHub Profile Summary Cards</a> for profile statistics.<br>
+Credits to: <a href="https://github.com/DenverCoder1/readme-typing-svg">DenverCoder1</a> for the README typing SVG, <a href="https://shields.io/">shields.io</a>, <a href="https://badges.pages.dev/">Simple Badges</a> and <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">Badges 4 README</a> for badge code, <a href="https://emojipedia.org/">Emojipedia</a> for the emojis and <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">GitHub Profile Summary Cards</a> for profile statistics.<br>
 <br>
 Thank you all! 🙌🏽
