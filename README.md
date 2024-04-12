@@ -1,5 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
-<!-- https://readme-typing-svg.herokuapp.com/demo/ -->
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Aamir%20Sohail;PhD%20Student%20in%20Psychology;Centre%20For%20Human%20Brain%20Health;University%20of%20Birmingham&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/aamir-sohail-3a42b9293"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/AamirNSohail"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohaamir&label=Profile%20views&color=0e75b6&style=flat" alt="sohaamir" /> </p>
 
