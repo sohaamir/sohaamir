@@ -1,14 +1,20 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Aamir%20Sohail;PhD%20Student%20in%20Psychology;Centre%20For%20Human%20Brain%20Health;University%20of%20Birmingham&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Aamir%20Sohail;PhD%20Student%20in%20Psychology;Centre%20For%20Human%20Brain%20Health;University%20of%20Birmingham&font=Fira%20Code&center=true&width=440&height=45&color=ff0000&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/aamir-sohail-3a42b9293"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/aamir-sohail-3a42b9293"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.iconsdb.com/icons/preview/red/linkedin-3-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/AamirNSohail"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://twitter.com/AamirNSohail"><img width="32px" alt="Twitter" title="Twitter" src="https://www.iconsdb.com/icons/preview/red/twitter-x-xxl.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:axs2210@student.bham.ac.uk"><img width="32px" alt="Mail" title="Mail" src="https://www.iconsdb.com/icons/preview/red/email-xxl.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://sohaamir.github.io/"><img width="32px" alt="Website" title="Website" src="https://www.iconsdb.com/icons/preview/red/geography-xxl.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://github.com/sohaamir"><img width="32px" alt="Website" title="Website" src="https://www.iconsdb.com/icons/preview/red/github-6-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
@@ -23,13 +29,6 @@
 - 👯 Open to collaborations on topics including **decision making, computational psychiatry and behavioural economics**
   
 - ❤️ Passionate towards improving **open science/reproducibility and inclusivity/diversity in (neuro)science**
-
-<br>
-
-## 🌐 My personal website and contact email address: 
-
-<a href="https://sohaamir.github.io" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-<a href="mailto:axs2210@student.bham.ac.uk" target="blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 
 <br>
 
