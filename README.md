@@ -31,19 +31,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohaamir&label=Profile%20views&color=0e75b6&style=flat" alt="sohaamir" /> </p>
 
-## 📖 About me:
+## whoami
 
-- 🏛️ Hi, I'm <img src ="https://img.shields.io/badge/Aamir-Sohail-green?labelColor=white&color=green" alt = "Aamir" />, an **MRC AIM DTP PhD Student in Psychology at the University of Birmingham**
-  
-- 🧠 I’m currently working to understand the **neurocomputational mechanisms of self-referencing in social anxiety**
+I am a first year [MRC Advanced Interdisciplinary Methods (AIM) DTP](https://more.bham.ac.uk/mrc-aim/) PhD student based at the [Centre for Human Brain Health (CHBH)](https://www.birmingham.ac.uk/research/centre-for-human-brain-health), University of Birmingham, where I am supervised by [Dr Lei Zhang](https://lei-zhang.net/) and [Professor Patricia Lockwood](https://www.birmingham.ac.uk/staff/profiles/psychology/lockwood-patricia.aspx). My research interests involve using behavioural tasks, computational modeling and neuroimaging to understand social decision-making, and applying this knowledge to inform the precision-based treatment of mental health disorders.
 
-- 👯 Open to collaborations on topics including **decision making, computational psychiatry and behavioural economics**
-  
-- ❤️ Passionate towards improving **open science/reproducibility and inclusivity/diversity in (neuro)science**
+Before starting my PhD, I completed a BSc in Biomedical Science at Imperial College London, with my final-year project supervised by [Anne Lingford-Hughes](https://www.imperial.ac.uk/people/anne.lingford-hughes) and [Sam Turton](https://www.imperial.ac.uk/people/s.turton), followed by an MSc in Brain Imaging at the University of Nottingham under the supervision of [Jan Derrfuss](https://www.nottingham.ac.uk/psychology/people/jan.derrfuss) and [Claudia Danielmeier](https://www.nottingham.ac.uk/psychology/people/claudia.danielmeier). I then worked as research and administrative support at the Centre for Integrative Neuroscience and Neurodynamics (CINN) at the University of Reading with [Anastasia Christakou](https://anastasia.christakou.org/). 
 
 <br>
 
-## 💻 I have experience with:
+## I have experience with:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
