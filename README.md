@@ -64,7 +64,7 @@ Before starting my PhD, I completed a BSc in Biomedical Science at Imperial Coll
 <br>
 <br>
 
-## My GitHub Profile Statistics
+## My GitHub Profile 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohaamir&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohaamir&theme=algolia)
 [![](https://raw.githubusercontent.com/sohaamir/sohaamir/main/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sohaamir/sohaamir/main/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
