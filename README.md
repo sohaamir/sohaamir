@@ -21,8 +21,6 @@
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aamir-sohail-3a42b9293/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://twitter.com/AamirNSohail" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
   <a href="https://bsky.app/profile/aamirsohail.bsky.social" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" alt="Bluesky Badge"></a>
   <a href="https://orcid.org/0009-0000-6584-4579" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge"></a>
   <a href="https://www.researchgate.net/profile/Aamir-Sohail-30" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Research_Gate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate Badge"></a>
