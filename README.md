@@ -29,7 +29,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohaamir&label=Profile%20views&color=0e75b6&style=flat" alt="sohaamir" /> </p>
 
-## whoami
+## [whoami](https://www.geeksforgeeks.org/linux-unix/whoami-command-linux-example/)
 
 I am an [MRC Advanced Interdisciplinary Methods (AIM) DTP](https://more.bham.ac.uk/mrc-aim/) PhD student based at the [Centre for Human Brain Health (CHBH)](https://www.birmingham.ac.uk/research/centre-for-human-brain-health), University of Birmingham, where I am supervised by [Lei Zhang](https://lei-zhang.net/) and [Patricia Lockwood](https://www.birmingham.ac.uk/staff/profiles/psychology/lockwood-patricia.aspx). My research interests involve using behavioural tasks, computational modeling and neuroimaging to understand social decision-making, and applying this knowledge to inform the precision-based treatment of mental health disorders.
 
@@ -37,7 +37,7 @@ Before starting my PhD, I completed a BSc in Biomedical Science at Imperial Coll
 
 <br>
 
-## I have experience with:
+## [These are a few of my favorite things...](https://www.youtube.com/watch?v=0IagRZBvLtw)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
